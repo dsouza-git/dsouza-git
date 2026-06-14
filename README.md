@@ -17,5 +17,5 @@ Acredito que a engenharia constrói a estrutura, enquanto a arte dá a forma —
 
 ### 📫 Vamos nos conectar?
 
-*   **LinkedIn:** (https://www.linkedin.com/in/d-souza-dev/)
-*   **E-mail:** [br.dsouza.00@gmail.com]
+*   **LinkedIn:** https://www.linkedin.com/in/d-souza-dev/
+*   **E-mail:** br.dsouza.00@gmail.com
