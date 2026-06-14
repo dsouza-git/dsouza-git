@@ -3,7 +3,7 @@
 
 # Olá, eu sou o [Rodrigo Souza]! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/rodrigo-souza-ti/)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-souza-ti/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL@gmail.com)](mailto:SEU_EMAIL@gmail.com)
 
 Sou um **[Sua Profissão, ex: Desenvolvedor Front-end / Estudante de Engenharia de Software]** apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Atualmente focado em criar soluções eficientes e de alto impacto.
