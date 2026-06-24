@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=160&section=header&text=D'%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Dados%20%7C%20Machine%20Learning%20%7C%20Rust&descAlignY=58&descColor=9FE1CB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=200&section=header&text=D'%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=Backend%20%7C%20Dados%20%7C%20Machine%20Learning%20%7C%20Rust&descAlignY=58&descColor=9FE1CB" width="100%"/>
 
 </div>
 
----
 
-## Rodrigo Souza!
+
+
 
 
 - 🎓 Graduando em **Engenharia de Computação** (último ano) — UNIVESP
