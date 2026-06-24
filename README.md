@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=200&section=header&text=D'%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=25&desc=FullStack%30%7C%20Dados%20%7C%20Machine%20Learning%20%7C%20Rust&descAlignY=58&descColor=9FE1CB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=200&section=header&text=D'%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=25&desc=FullStack%30%7C%20Dados%20%7C%20Machine%20Learning%20%7C%20&descAlignY=58&descColor=9FE1CB" width="100%"/>
 
 </div>
 
 - 🎓 Graduando em **Engenharia de Computação** (último ano) — UNIVESP
-- 💼 Fullstack Developer · Dados · ML · Rust
-- 🎨 Ilustrador | Designer (Freelancer)
+- 💼 Fullstack Developer · Dados · ML
+- 🎨 Ilustrador | Designer 
 - 🌍 Indaiatuba, São Paulo, Brasil
 
 ---
@@ -17,8 +17,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +31,6 @@
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -56,6 +53,7 @@
 
 ---
 
+## Contato
 
 <div align="center">
 
