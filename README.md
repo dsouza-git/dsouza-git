@@ -8,11 +8,6 @@
 
 ## 👋 Olá, eu sou o Rodrigo!
 
-> 🎯 *"Aprender em cada dia um pouco mais!"*
-
-Estudante de **Engenharia de Computação** na UNIVESP em transição de uma carreira consolidada como **Ilustrador Digital Freelancer** para a área de **Tecnologia da Informação e Desenvolvimento de Software**.
-
-Acredito que a engenharia constrói a estrutura, enquanto a arte dá a forma — e busco unir o melhor desses dois mundos para criar soluções eficientes, robustas e visualmente impactantes.
 
 - 🎓 Graduando em **Engenharia de Computação** — UNIVESP
 - 💼 Backend Developer · Dados · ML · Rust enthusiast
@@ -47,26 +42,6 @@ Acredito que a engenharia constrói a estrutura, enquanto a arte dá a forma —
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 🚀 O que tenho explorado e desenvolvido?
-
-- **Sistemas de Alta Performance:** Apaixonado pela eficiência, segurança de memória e concorrência do **Rust** para construir aplicações desktop e backend de alto rendimento.
-- **Machine Learning aplicado:** Desenvolvimento de aplicações web com modelos de ML integrados e deploy em produção (Django + Scikit-learn + Vercel).
-- **IA Generativa & Dados:** Exploração de ferramentas como Google NotebookLM para análise estratégica cruzando fontes financeiras, sociais e macroeconômicas.
-- **Aplicações Práticas:** Sistemas de gestão e automação para demandas reais de mercado.
-- **Fundamentos Sólidos:** Dedicação constante à arquitetura de hardware e software, matemática financeira e análise estatística.
-
----
-
-## 🎯 Áreas de atuação
-
-| Área | Tecnologias |
-|---|---|
-| 🔧 **Backend** | Python, Django, Rust, Java, REST APIs |
-| 📊 **Dados** | Pandas, NumPy, SQL, Análise Exploratória |
-| 🤖 **Machine Learning** | Scikit-learn, Modelagem, Deploy de Modelos |
-| 🧠 **IA Generativa** | Google NotebookLM, Prompting, GenAI |
-| 🎨 **Design & Arte** | Ilustração Digital, Design Gráfico |
 
 ---
 
