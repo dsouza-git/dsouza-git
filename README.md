@@ -6,19 +6,19 @@
 
 ---
 
-## 👋 Olá, eu sou o Rodrigo!
+## Rodrigo Souza!
 
 
-- 🎓 Graduando em **Engenharia de Computação** — UNIVESP
-- 💼 Backend Developer · Dados · ML · Rust enthusiast
-- 🎨 Ilustrador Digital (Freelancer)
+- 🎓 Graduando em **Engenharia de Computação** (último ano) — UNIVESP
+- 💼 Fullstack Developer · Dados · ML · Rust
+- 🎨 Ilustrador | Designer (Freelancer)
 - 🌍 Indaiatuba, São Paulo, Brasil
 
 ---
 
 ## 🛠️ Stack
 
-**Backend & Web**
+**Backend | Frontend **
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -28,7 +28,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Dados & Machine Learning**
+**Dados | Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -62,7 +62,6 @@
 
 ---
 
-## 📫 Vamos nos conectar?
 
 <div align="center">
 
