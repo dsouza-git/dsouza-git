@@ -44,6 +44,7 @@
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=dsouza-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouza-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+![As Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dsouza-git&layout=compact&count_private=true)
 ![As Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dsouza-git&layout=compact)
 
 </div>
