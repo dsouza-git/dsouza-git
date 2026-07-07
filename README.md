@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=180&section=header&text=Rodrigo%20Souza&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Banner Rodrigo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=200&section=header&text=Rodrigo%20Souza&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Banner Rodrigo" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ---
 
 <h2 align="center"><font color="#00C853">🤖 Linguagens e Tecnologias</font></h2>
-<p align="center">💡 <i>Botões em alto contraste (Fundo Preto + Ícones Brancos/Coloridos) para leitura perfeita em qualquer tema</i></p>
+<p align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -44,7 +44,7 @@
 ---
 Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
     height="170" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=dsouza-git&theme=tokyonight&hide_border=true" 
