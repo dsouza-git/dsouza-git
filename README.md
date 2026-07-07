@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C853&size=22&center=true&vCenter=true&width=600&height=50&lines=Engenharia+de+Computa%C3%A7%C3%A3o;Desenvolvimento+web+FullStack;Analise+de+dados;Machine+Learning+&+A.+I.!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="./Figurinha_Mago_MagIA.jpg" width="160" alt="Mago MagIA" />
-</p>
-
 ---
 
 <p align="center">
@@ -57,7 +53,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouza-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=ffffff" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dsouza-git&theme=tokyonight" 
     alt="Top Languages"
   />
 </p>
