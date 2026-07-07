@@ -51,9 +51,9 @@
     alt="GitHub Streak"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img 
+   <img 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouza-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=ffffff&color_weight=00C853" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dsouza-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=ffffff&icon_color=00C853" 
     alt="Top Languages"
   />
 </p>
