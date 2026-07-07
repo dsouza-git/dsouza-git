@@ -26,7 +26,7 @@
 
 ---
 
-<h2 align="center">💻 Tecnologias e Ferramentas</h2>
+<h2 align="center"> Tecnologias e Ferramentas</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-00C853?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -42,7 +42,7 @@
 
 ---
 
-📊 Estatísticas
+<h2 align="center"> Estatísticas</h2>
 
 <p align="center">
   <img 
