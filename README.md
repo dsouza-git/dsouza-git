@@ -53,7 +53,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     height="170" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dsouza-git&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouza-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=ffffff&color_weight=00C853" 
     alt="Top Languages"
   />
 </p>
