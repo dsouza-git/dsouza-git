@@ -1,73 +1,82 @@
-<div align="center">
+👨🏻‍💻 Rodrigo D'Souza
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=200&section=header&text=D'%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=FullStack%20%7C%20Dados%20%7C%20Machine%20Learning%20%&descAlignY=58&descColor=9FE1CB" width="100%"/>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=160&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=30&fontAlign=50&fontColor=ffffff"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=22&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o;Ex-Ilustrador+Digital+%7C+Migrando+para+TI;Explorando+Rust+e+Sistemas+de+Alta+Performance;Aprender+em+cada+dia+um+pouco+mais!" 
+  />
+</p>
 
-</div>
-
-## Resumo
-
-- 🎓 Graduando em **Engenharia de Computação** (último ano) — UNIVESP
-- 💼 Fullstack Developer · Dados · ML
-- 🎨 Ilustrador | Designer 
-- 🌍 Indaiatuba, São Paulo, Brasil
-
----
-
-## Stack
-
-**Backend | Frontend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Dados | Machine Learning**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
+<p align="center">
+  Unindo a estrutura da engenharia com a forma da arte para criar soluções eficientes
+</p>
+Me chamo Rodrigo D'Souza. Atualmente sou estudante de Engenharia de Computação na UNIVESP e estou migrando de uma carreira consolidada como Ilustrador Digital Freelancer para a área de Tecnologia da Informação e Desenvolvimento de Software.
 
 
-## GitHub 
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dsouza-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+🚀 O que tenho  desenvolvido?
 
 
+Sistemas de Alta Performance: apaixonado pela eficiência, segurança de memória e concorrência do Rust para construir aplicações desktop e backend de alto rendimento.
+Aplicações Práticas: desenvolvimento de sistemas de gestão e automação para demandas reais de mercado.
+Fundamentos Sólidos: dedicação constante aos estudos de arquitetura de hardware e software, matemática financeira e análise estatística.
 
-</div>
 
-<div align="center">
+<p align="center">
+    <a href="https://www.linkedin.com/in/d-souza-dev/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/dsouza-git">
+        <img 
+            alt="GitHub" 
+            title="Meu GitHub" 
+            src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+    <a href="mailto:br.dsouza.00@gmail.com">
+        <img 
+            alt="E-mail" 
+            title="Meu E-mail" 
+            src="https://img.shields.io/badge/Email-Contato-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dsouza-git&theme=tokyonight&hide_border=true&locale=pt_BR)
+🤖 Linguagens e Tecnologias
 
-</div>
+<p align="left">
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
+📌 Projetos em destaque
 
----
 
-## Contato
+dsouza-git — Apresentação pessoal (este próprio repositório de perfil).
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-souza-dev/)
-[![E-mail](https://img.shields.io/badge/E--mail-0F6E56?style=for-the-badge&logo=gmail&logoColor=white)](mailto:br.dsouza.00@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dsouza-git)
+📊 Estatísticas
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="left">
+  <img 
+    height="170" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dsouza-git&theme=tokyonight&hide_border=true" 
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    height="170" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dsouza-git&theme=tokyonight" 
+  />
+</p>
