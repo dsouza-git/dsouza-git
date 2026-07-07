@@ -42,18 +42,16 @@
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img 
     height="170" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dsouza-git&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakNum=00C853&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" 
-    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dsouza-git&theme=tokyonight&hide_border=true" 
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     height="170" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dsouza-git&theme=matrix" 
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dsouza-git&theme=tokyonight" 
   />
 </p>
