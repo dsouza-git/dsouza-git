@@ -44,7 +44,7 @@
 
 📊 Estatísticas
 
-<p align="left">
+<p align="center">
   <img 
     height="170" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=dsouza-git&theme=tokyonight&hide_border=true" 
